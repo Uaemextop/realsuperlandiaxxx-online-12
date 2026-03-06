@@ -1,0 +1,19 @@
+{
+  "url": "https://realsuperlandiaxxx.online/wp-includes/version.php",
+  "status_code": 200,
+  "headers": {
+    "Date": "Fri, 06 Mar 2026 06:48:45 GMT",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Server": "cloudflare",
+    "x-powered-by": "CyberPanel-OLS/2.4.4",
+    "x-turbo-charged-by": "LiteSpeed",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Server-Timing": "cfCacheStatus;desc=\"DYNAMIC\", cfEdge;dur=2,cfOrigin;dur=131",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=5%2BOQr%2F48VWeaYxQTympcPDIrvjsAuTamujSq%2BzKTd1l4t4ZtjBhzkAc7qGPWyn870lFkpZA4nGgNvXUJnTZySUujnuSmGufqRx1mjhQmzJorcellgCdw\"}]}",
+    "CF-RAY": "9d7f6aa64bf6f787-DFW",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  }
+}

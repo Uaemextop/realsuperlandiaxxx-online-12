@@ -1,0 +1,24 @@
+{
+  "url": "https://realsuperlandiaxxx.online/index.php/shop/",
+  "status_code": 200,
+  "headers": {
+    "Date": "Fri, 06 Mar 2026 06:49:08 GMT",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Cache-Control": "no-cache",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=Jy6OM1eZP%2Byen65yioIdcHhJ7JVK0ZZHqZNmXL%2BiAUdSDHp58pXl2%2BHZnuKyk8nCdKoEJoEvIokSPe7%2Bu2KHyMZAUjk9BL8PFx%2BGbzuX%2FLZETalTX99x6pk%3D\"}]}",
+    "wpo-cache-status": "cached",
+    "last-modified": "Fri, 06 Mar 2026 06:07:00 GMT",
+    "Server": "cloudflare",
+    "x-powered-by": "CyberPanel-OLS/2.4.4",
+    "x-turbo-charged-by": "LiteSpeed",
+    "cf-cache-status": "DYNAMIC",
+    "vary": "accept-encoding",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Server-Timing": "cfCacheStatus;desc=\"DYNAMIC\", cfEdge;dur=2,cfOrigin;dur=207",
+    "Content-Encoding": "br",
+    "CF-RAY": "9d7f6b356e5f69fb-DFW",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  }
+}

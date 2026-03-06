@@ -11,4 +11,4 @@
 | Skip media files | true |
 | LMSA country | (all regions) |
 | Run | #69 |
-| Status | 🔄 Crawling in progress… |
+| Status | ✅ Crawl complete |
